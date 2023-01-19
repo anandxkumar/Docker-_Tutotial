@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # initializing variable via arguement value
 var=$@
